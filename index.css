@@ -1,0 +1,68 @@
+html {
+ 62.5%;
+}
+ 
+body {
+    font-size: 1.6 rem;
+    line-height:1.5;
+}
+* {
+    box-sizing: border-box;
+    max-width: 100%;
+}
+nav a {
+    margin: 0 auto;
+}
+.plan {
+    background-color: orangered;
+    color: white;
+    padding: .6rem;
+    border-radius: 15%;
+    margin: 4%;
+}
+
+.learn {
+    background-color: aqua;
+    color: white;
+    padding: .6rem;
+    border-radius: 15%;
+    margin: 4%;
+}
+
+.get {
+    background-color: yellow;
+    color: white;
+    padding: .6rem;
+    border-radius: 15%;
+    margin: 4%;
+}
+
+.links {
+    text-align: center;
+}
+
+.valley-par {
+background-color: tomato;
+}
+
+.mountains {
+    width: 10%;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+}
+
+.hills {
+    border-radius: 50%;
+    display:inline-block;
+}
+
+.sign {
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+}
+
+.full {
+    margin: 1% 20%;
+}
